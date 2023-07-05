@@ -1,0 +1,23 @@
+error {
+  color: red;
+}
+body {
+  background-color: grey;
+}
+h1 {
+  width: fit-content;
+  border: 1px solid rgb(2, 0, 4);
+  color: black;
+}
+form {
+  padding: 20px;
+}
+div {
+  margin: 10px;
+  font-size: larger;
+}
+.submit {
+  color: white;
+  background-color: blueviolet;
+  border-radius: 3px;
+}
